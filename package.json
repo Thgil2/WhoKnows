@@ -1,0 +1,13 @@
+{
+  "name": "something",
+  "version": "1.0.0",
+  "description": "Kidding..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
